@@ -1,1 +1,2 @@
-# MAD PROJECT
+# Mobile Application Development Project
+## Expense Tracker App
